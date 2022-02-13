@@ -26,7 +26,7 @@
     "release": "electron-builder -p always"
   },
   "dependencies": {
-    "ajv": "^6.10.0",
+    "ajv": "^6.12.3",
     "axios": "^0.18.0",
     "date-fns": "^2.0.0-alpha.27",
     "electron-devtools-installer": "^2.2.4",
